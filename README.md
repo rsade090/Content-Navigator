@@ -15,7 +15,6 @@ Content Navigator is a Streamlit-based web application that leverages **Retrieva
 - **Hybrid Search Mechanism**: Supports both **keyword-based** (lexical) and **semantic** (vectorized) search.
 - **Adaptive Chunking & Indexing**: Implements dynamic document segmentation for optimized retrieval.
 - **Streaming Response Generation**: Real-time AI-powered answer streaming via GPT-4o.
-- **Scalable Architecture**: Efficient document processing with parallel indexing.
 - **File Ingestion Support**: Accepts **PDF and HTML webpages** for analysis.
 
 ##  Installation
